@@ -1,5 +1,5 @@
 # Northwind Database Analysis  
-Source: _[en.wikiversity.org/wiki/Database_Examples/Northwind/MySQL]([url](https://en.wikiversity.org/wiki/Database_Examples/Northwind/MySQL))_    
+Source: [en.wikiversity.org/wiki/Database_Examples/Northwind/MySQL]([url](https://en.wikiversity.org/wiki/Database_Examples/Northwind/MySQL))   
   
 This repository contains a collection of SQL queries performed on the classic Northwind database to analyze sales performance, customer behavior, employee productivity, and product trends.  The project demonstrates practical SQL skills including data retrieval, aggregation, joins, subqueries, and analytical thinking for business insights.
 
